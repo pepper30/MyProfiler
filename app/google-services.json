@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "647204556136",
+    "firebase_url": "https://myprofiler-9746f.firebaseio.com",
+    "project_id": "myprofiler-9746f",
+    "storage_bucket": "myprofiler-9746f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647204556136:android:e3a7a4ee1941b245",
+        "android_client_info": {
+          "package_name": "megha.myprofiler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647204556136-bv6f3o37bq6o9u3h518eihk4tr7470vu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "megha.myprofiler",
+            "certificate_hash": "394c9df18f1d63a9acd4d605cf0f6a6c95fc7999"
+          }
+        },
+        {
+          "client_id": "647204556136-mfkrafbdnbjrfi00el5lush939rkprrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi82sBPoJ9Uh415lk9LfKwe2r3riIgMeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647204556136-mfkrafbdnbjrfi00el5lush939rkprrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
